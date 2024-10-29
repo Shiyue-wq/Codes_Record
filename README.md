@@ -16,7 +16,7 @@
   - Satellite ✅
 - Textual Analysis ✅
 - LLM
-  [Github] (https://github.com/ollama/ollama![image](https://github.com/user-attachments/assets/358050b3-f5ce-4b23-8c42-0c13e3f3ecc9))
+[Ollama](https://github.com/ollama/ollama![image](https://github.com/user-attachments/assets/358050b3-f5ce-4b23-8c42-0c13e3f3ecc9)
 
 
 ## Optimization
