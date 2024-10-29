@@ -15,9 +15,9 @@
   - PyFEAT: Human-detection ✅
   - Satellite ✅
 - Textual Analysis ✅
-- LLM
-[Ollama](https://github.com/ollama/ollama![image](https://github.com/user-attachments/assets/358050b3-f5ce-4b23-8c42-0c13e3f3ecc9)
+- LLM: [Ollama](https://github.com/ollama/ollama)
 
+![Ollama Logo](https://github.com/user-attachments/assets/358050b3-f5ce-4b23-8c42-0c13e3f3ecc9)
 
 ## Optimization
 - :)
